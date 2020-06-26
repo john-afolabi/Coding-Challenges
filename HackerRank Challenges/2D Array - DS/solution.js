@@ -71,5 +71,3 @@ function hourglassSum(arr) {
 
 	return maxNum;
 }
-
-f;
